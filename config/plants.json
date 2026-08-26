@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Monstera1",
+    "threshold": 30,
+    "current_moisture": 25
+  },
+  {
+    "name": "Farn",
+    "threshold": 50,
+    "current_moisture": 60
+  },
+   {
+    "name": "Monstera3",
+    "threshold": 50,
+    "current_moisture": 100
+  },
+   {
+    "name": "Efeutute",
+    "threshold": 20,
+    "current_moisture": 100
+  }
+]
